@@ -1,0 +1,23 @@
+{
+  "name": "dice_simulator_2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galyonj/dice_simulator_2015.git"
+  },
+  "author": "John Galyon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galyonj/dice_simulator_2015/issues"
+  },
+  "homepage": "https://github.com/galyonj/dice_simulator_2015#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3",
+    "uglify-js": "^3.10.4"
+  }
+}
